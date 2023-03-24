@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BTdecayLasso"]
+	path = BTdecayLasso
+	url = https://github.com/cran/BTdecayLasso
+	shallow = true
+	registered = true
